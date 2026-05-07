@@ -1,4 +1,4 @@
-# 🚀 Schedulix
+# 🚀 Schedulix. .  
 
 ### 🎮 Interactive CPU Scheduling Simulator & Game
 
